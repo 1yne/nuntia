@@ -13,7 +13,6 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "^10.4.8",
-		"carbon-components-svelte": "^0.70.6",
 		"carbon-icons-svelte": "^11.2.0",
 		"eslint": "^8.16.0",
 		"eslint-config-prettier": "^8.3.0",
