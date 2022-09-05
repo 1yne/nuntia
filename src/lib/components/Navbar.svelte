@@ -1,10 +1,30 @@
-<script>
-  import Logout from "carbon-icons-svelte/lib/Logout.svelte";
-</script>
+<header class="flex justify-between items-center rounded-md">
+  <h1 class="font-bold text-2xl">Nuntia</h1>
+  <nav>
+    <ul class="nav__links">
+      <li><a href="/announcements" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Announcements</a></li>
+      <li><a href="/diary" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Class Diary</a></li>
+      <li><a href="/messages" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Messages</a></li>
+    </ul>
+  </nav>
+</header>
 
-<div class="bg-white m-5 p-2 rounded-[6px] flex flex-row ">
-  <h1 class="font-sans text-2xl font-bold ml-2">Nuntia</h1>
-
-  <h1 class="flex float-right ml-auto mx-3 font-sans text-2xl font-bold">Student Name</h1>
-  <Logout size={32} class="mx-3 hover:fill-purple transition-all duration-200 ease-in" />
-</div>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #D9D9D9;
+    /* font-family: 'Montserrat', sans-serif; */
+  }
+  header {
+    padding: 10px 10%;
+    margin: 1rem;
+  }
+  .nav__links li {
+    display: inline-block;
+    padding: 0 20px;
+  }
+</style>
