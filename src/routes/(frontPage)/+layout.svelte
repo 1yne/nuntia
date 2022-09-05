@@ -1,13 +1,12 @@
 <script>
-  import "../app.css";
-  import Navbar from "$lib/components/Navbar.svelte";
+  import "../../app.css";
+  import HomeNavbar from "$lib/components/HomeNavbar.svelte";
 </script>
 
-<Navbar />
+<HomeNavbar />
 <main>
   <slot />
 </main>
-
 <style>
   :global(body) {
     background-color: #1E1E1E;
