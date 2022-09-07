@@ -1,9 +1,7 @@
 <script>
   import "../../app.css";
-  import HomeNavbar from "$lib/components/HomeNavbar.svelte";
 </script>
 
-<HomeNavbar />
 <main>
   <slot />
 </main>

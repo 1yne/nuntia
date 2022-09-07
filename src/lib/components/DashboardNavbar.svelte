@@ -6,7 +6,6 @@
       <li class="inline-block"><a href="/dashboard/diary" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Class Diary</a></li>
       <li class="inline-block"><a href="/dashboard/messages" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Messages</a></li>
       <li class="inline-block"><a href="/" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Logout</a></li>
-      <li class="inline-block"></li>
     </ul>
   </nav>
 </header>
