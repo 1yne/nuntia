@@ -34,7 +34,4 @@
   input[type="text"]:focus {
     border: 2px solid #b33dd1;
   }
-  button {
-
-  }
 </style>
