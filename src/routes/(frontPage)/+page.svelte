@@ -2,11 +2,11 @@
   import HomeNavbar from "../../lib/components/HomeNavbar.svelte";
 
 </script>
-<!-- <svelte:head>
+<svelte:head>
 	<title>Nuntia</title>
 </svelte:head>
 
-<body>
+<!-- <body>
   <div class="w-full">
     <div align="right" class="icon" >
       <img src="/images/heroImage.png" class="m-5" alt="" />
@@ -36,10 +36,10 @@
 
 <HomeNavbar />
 <main>
-  <section class="w-1/2 h-[80vh] float-left text-accent textSection">
-    <div class="w-3/4 ">
-      <h1 class="font-[Pacifico] text-6xl p-10 text">Nuntia</h1>
-      <p class="text-2xl text">The one stop destination for all communication between teachers and students</p>
+  <section class="w-1/2 h-[80vh] float-left text-accent font-[Montserrat]  textSection">
+    <div class="w-3/4  p-10">
+      <h1 class="font-[Pacifico] text-9xl text">Nuntia</h1>
+      <p class="text-3xl text para">The one stop destination for all communication between teachers and students</p>
     </div>
   </section>
   <div class="hero w-1/2 h-[80vh] float-left text-accent bg-center bg-no-repeat"></div>
@@ -47,6 +47,7 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&family=Mali&display=swap');
   * {
     margin: 0;
     padding: 0;
@@ -62,10 +63,12 @@
     border: 1px solid black;
   }
   .textSection {
-    padding: 10rem 0;
+    padding: 5rem 0;
   }
   .text {
-    padding-left: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding: 2.5rem;
+  }
+  .para {
+    font-family: 'Mali', cursive;
   }
 </style>
