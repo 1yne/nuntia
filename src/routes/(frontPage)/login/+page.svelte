@@ -45,7 +45,7 @@
 			/>
 		</div>
 		<button
-			class="w-full my-10 h-10 rounded-sm border-2 border-solid border-purple hover:bg-purple transition-all duration-150 ease-in"
+			class="w-full my-10 h-10 rounded-sm border-2 border-solid border-purple hover:bg-purple hover:text-complementary transition-all duration-150 ease-in"
 			type="submit">Login</button
 		>
 		<hr class="border-[0.25px] border-solid border-black" />
@@ -53,9 +53,9 @@
 </div>
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&family=Mali&display=swap');
 	* {
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Mali', sans-serif;
 	}
 	input {
 		border: 2px solid #ccc;
