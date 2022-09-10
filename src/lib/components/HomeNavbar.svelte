@@ -1,8 +1,8 @@
-<header class="flex justify-between items-center rounded-md">
-  <h1 class="font-bold text-2xl text-accent font-[Pacifico]"><a href="/">Nuntia</a></h1>
+<header class="flex justify-between items-center rounded-md text-complementary">
+  <h1 class="font-bold text-2xl font-[Pacifico]"><a href="/">Nuntia</a></h1>
   <nav>
     <ul class="nav__links">
-      <li class="inline-block"><a href="/login" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Mali]">Login</a></li>
+      <li class="inline-block"><a href="/login" class="transition-all ease-in duration-200 font-medium text-base no-underline font-[Mali]">Login</a></li>
     </ul>
   </nav>
 </header>
