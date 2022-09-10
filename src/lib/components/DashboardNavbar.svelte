@@ -2,17 +2,17 @@
   <h1 class="font-bold text-2xl text-accent font-[Pacifico]"><a href="/">Nuntia</a></h1>
   <nav>
     <ul class="nav__links">
-      <li class="inline-block"><a href="/dashboard/announcements" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Montserrat]">Announcements</a></li>
-      <li class="inline-block"><a href="/dashboard/diary" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Montserrat]">Class Diary</a></li>
-      <li class="inline-block"><a href="/dashboard/messages" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Montserrat]">Messages</a></li>
-      <li class="inline-block"><a href="/" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Montserrat]">Logout</a></li>
+      <li class="inline-block"><a href="/dashboard/announcements" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Mali]">Announcements</a></li>
+      <li class="inline-block"><a href="/dashboard/diary" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Mali]">Class Diary</a></li>
+      <li class="inline-block"><a href="/dashboard/messages" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Mali]">Messages</a></li>
+      <li class="inline-block"><a href="/" class="transition-all ease-in duration-200 hover:text-complementary font-medium text-base no-underline font-[Mali]">Logout</a></li>
     </ul>
   </nav>
 </header>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
   * {
     box-sizing: border-box;
     margin: 0;
