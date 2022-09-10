@@ -6,10 +6,9 @@ module.exports = {
       colors: {
         "purple": "#4526D3",
         "bgColor": "#1E1E1E",
-        "white": "#D9D9D9",
-        "dominantColor": "#4526D3",
-        "accent": "#1E1926",
-        "complementary": "#FDF7FF"
+        "dominantColor": "#4526D3", // Purple color
+        "accent": "#1E1926", // Dark color
+        "complementary": "#FDF7FF" // Peach-ish
       },
     },
   },

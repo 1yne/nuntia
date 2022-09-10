@@ -10,6 +10,6 @@
 
 <style>
   :global(body) {
-    background-color: #1E1E1E;
+    background-color: #FDF7FF;
   }
 </style>

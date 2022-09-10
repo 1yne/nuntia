@@ -15,7 +15,7 @@
 	<title>Login</title>
 </svelte:head>
 
-<h1 class="font-bold text-3xl text-white my-10" align="center">Nuntia</h1>
+<h1 class="font-bold text-3xl  my-10 text-accent" align="center">Nuntia</h1>
 <div align="center" class="w-[20rem] bg-white mx-auto h-[50vh] rounded-sm p-10">
 	<form on:submit|preventDefault={login}>
 		<p align="center" class="mb-6 mt-0">Login to continue!</p>
