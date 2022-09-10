@@ -1,5 +1,5 @@
 <header class="flex justify-between items-center rounded-md">
-  <h1 class="font-bold text-2xl"><a href="/">Nuntia</a></h1>
+  <h1 class="font-bold text-2xl font-[Pacifico]"><a href="/">Nuntia</a></h1>
   <nav>
     <ul class="nav__links">
       <li class="inline-block"><a href="/dashboard/announcements" class="transition-all ease-in duration-200 hover:text-purple font-medium text-base no-underline font-[Montserrat]">Announcements</a></li>
@@ -12,6 +12,7 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
   * {
     box-sizing: border-box;
     margin: 0;
