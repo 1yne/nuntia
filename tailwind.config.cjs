@@ -11,9 +11,6 @@ module.exports = {
         "accent": "#1E1926",
         "complementary": "#FDF7FF"
       },
-      backgroundImage: {
-        "heroImage": "url('./static/images/stockOne.png')"
-      }
     },
   },
   plugins: [],
