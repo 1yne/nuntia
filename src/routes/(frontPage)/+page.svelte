@@ -24,7 +24,7 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&family=Mali&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
   * {
     margin: 0;
     padding: 0;
