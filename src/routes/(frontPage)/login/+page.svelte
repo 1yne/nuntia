@@ -30,6 +30,7 @@
 					required
 					bind:value={usernameValue}
 					class:invalid="{usernameValid}"
+					autocomplete="off"
 				/>
 			</div>
 			<label for="password">Password: </label>
