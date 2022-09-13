@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"dotenv": "^16.0.2"
+		"dotenv": "^16.0.2",
+		"mongoose": "^6.6.0"
 	}
 }
